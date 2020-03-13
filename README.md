@@ -2,6 +2,7 @@
 
 未完成です
 
+
 --- ゲ-ム説明 ---
   
   外側に逃げようとする赤い球を黒い球で囲むゲ-ムです
@@ -31,3 +32,22 @@
  特に4番がかなり詰まりました
  
  幅優先による結果を見て規則性を探し,それを実行することがかなり困難で様々な工夫を凝らしました
+ 
+ 作りたかったゲーム↓
+ 
+ [![Image from Gyazo](https://i.gyazo.com/12f308d0f5a9605f54ca8ddc11ea41ce.gif)](https://gyazo.com/12f308d0f5a9605f54ca8ddc11ea41ce)
+
+[![Image from Gyazo](https://i.gyazo.com/f92b53ce1f92faf5b715e6f1821aaf74.gif)](https://gyazo.com/f92b53ce1f92faf5b715e6f1821aaf74)
+
+ 
+ 
+ 
+ 実際に作ったゲーム↓
+ 
+ [![Image from Gyazo](https://i.gyazo.com/2b914e1548618f4aa7c0162cb97b9490.gif)](https://gyazo.com/2b914e1548618f4aa7c0162cb97b9490)
+
+
+上のGif画像のとおり、急に端に飛んでゲームオーバーになる原因が分からずまだ未完成です。
+
+Qiitaにまとめてるのでよかったらご覧ください
+https://qiita.com/tokky08/items/44c5f5db78e4dfdfff47
